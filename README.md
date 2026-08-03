@@ -19,3 +19,7 @@ Add this to your config.js
 				countdownMode: "hybrid"
 			}
 		},
+
+And in bash:
+
+export CTA_API_KEY=yourapikey
